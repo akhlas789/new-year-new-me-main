@@ -1,0 +1,125 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header */
+.banner {
+    background-image: url('images/banner/banner1.png');
+    height: 800px;
+    width: 100%;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+
+}
+
+.akhlas {
+    margin-left: 55%;
+    padding-top: 7%;
+    padding-right: 10%;
+    color: #151414;
+    text-align: right;
+
+
+}
+
+.title {
+    font-weight: 600;
+    font-size: 65px;
+    padding-bottom: 5px;
+
+}
+
+.praragraph {
+    font-weight: 400;
+    font-size: 18px;
+    color: #444343;
+    padding: 10px;
+}
+
+button {
+    font-weight: 600;
+    font-size: 20px;
+    width: 150px;
+    height: 60px;
+    background-color: coral;
+    color: azure;
+    border-radius: 10px;
+
+}
+
+/* 2nd page */
+.body-bar {
+    display: flex;
+    width: 12.5%;
+    padding: 5% 10%;
+    /* margin: 0 auto; */
+}
+
+.imge {
+    margin-right: 50%;
+    width: 569px;
+    height: 723.3px;
+}
+
+.body {
+    margin-left: 50%;
+    width: 416px;
+    height: 400px;
+
+}
+
+.body-title {
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+    height: 94px;
+
+}
+
+.body-paragraph {
+    font-weight: 100px;
+    font-size: 16px;
+    color: #444343;
+}
+
+li {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+/* 3rd page */
+
+.What {
+    margin-top: 130px;
+
+}
+
+.skill {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.skill-container {
+    display: flex;
+    gap: 24px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.skill-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.section-title {
+    margin-top: 130px;
+}
